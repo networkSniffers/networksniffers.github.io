@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello sniffers!</title>
-    <link>https://networksniffers.github.io/</link>
-    <description>Recent content on Hello sniffers!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>NetworkSniffers</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on NetworkSniffers</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© Athul</copyright><atom:link href="https://networksniffers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© NetworkSniffers</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>We worship hping, we hate AI.&#xA;Born during ITS Alto Adriatico, Network Sniffers is a work group, a CTF team and a group of friends with various interests all related to machines.&#xA;Members Riccardo Temporin (@BluePsyc0)&#xA;Luca Loner (@LL1201)&#xA;Michele Pitton (@GamaKichi)&#xA;Federico Lorenzon (@LaRancion)</description>
+    </item>
   </channel>
 </rss>

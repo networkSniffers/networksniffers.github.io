@@ -14,10 +14,10 @@ Born during ITS Alto Adriatico, Network Sniffers is a work group, a CTF team and
 
 # Members
 
-Riccardo Temporin (@BluePsyc0)
+@BluePsyc0
 
-Luca Loner (@LL1201)
+@LL1201
 
-Michele Pitton (@GamaKichi)
+@GamaKichi
 
-Federico Lorenzon (@LaRancion) 
+@LaRancion 

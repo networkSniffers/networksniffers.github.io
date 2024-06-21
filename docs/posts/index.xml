@@ -14,7 +14,7 @@
       <link>http://localhost:1313/posts/kerberos-interrealm/</link>
       <pubDate>Fri, 21 Jun 2024 10:46:16 +0200</pubDate>
       <guid>http://localhost:1313/posts/kerberos-interrealm/</guid>
-      <description> Lab Scheme </description>
+      <description>Author: LaRancion&#xA;Che cosa succede quanto proviamo ad utilizzare un servizio su un Parent Domain o su un altra foresta da un child domain??&#xA;SPOILER:: I Domain controller possiedono una trust key che utilizzano per le richieste tra domini o foreste in cui è presente un trust.&#xA;Risorse Il blog di exploit.ph (https://exploit.ph/external-trusts-are-evil.html) è ultra interessante e mostra come anche nel caso di un external trust sia possibile muoversi lateralmente creando un oggetto in AD</description>
     </item>
   </channel>
 </rss>

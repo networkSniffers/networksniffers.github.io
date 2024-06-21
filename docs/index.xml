@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NetworkSniffers</title>
-    <link>http://localhost:1313/</link>
+    <link>https://networksniffers.github.io/</link>
     <description>Recent content on NetworkSniffers</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© NetworkSniffers</copyright>
     <lastBuildDate>Fri, 21 Jun 2024 10:46:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://networksniffers.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kerberos Interrealm</title>
-      <link>http://localhost:1313/posts/kerberos-interrealm/</link>
+      <link>https://networksniffers.github.io/posts/kerberos-interrealm/</link>
       <pubDate>Fri, 21 Jun 2024 10:46:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/kerberos-interrealm/</guid>
+      <guid>https://networksniffers.github.io/posts/kerberos-interrealm/</guid>
       <description>Author: LaRancion&#xA;Che cosa succede quanto proviamo ad utilizzare un servizio su un Parent Domain o su un altra foresta da un child domain??&#xA;SPOILER:: I Domain controller possiedono una trust key che utilizzano per le richieste tra domini o foreste in cui è presente un trust.&#xA;Risorse Il blog di exploit.ph (https://exploit.ph/external-trusts-are-evil.html) è ultra interessante e mostra come anche nel caso di un external trust sia possibile muoversi lateralmente creando un oggetto in AD</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://networksniffers.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://networksniffers.github.io/about/</guid>
       <description>We worship hping, we hate AI.&#xA;Born during ITS Alto Adriatico, Network Sniffers is a work group, a CTF team and a group of friends with various interests all related to machines.&#xA;Members @BluePsyc0&#xA;@LL1201&#xA;@GamaKichi&#xA;@LaRancion</description>
     </item>
   </channel>
